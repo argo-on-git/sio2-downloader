@@ -9,7 +9,7 @@ Welcome to the **Sio2 Task Downloader**! This tool allows you to download tasks 
 You can use this tool as you like. To get started, you will need to provide your cookies data, which can be done using the [Cookie Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en) extension for Chrome.
 
 ## Recommended Setup
-For ease of use and to avoid installing any libraries, we recommend using the executable file (`.exe`).
+For ease of use and to avoid installing any libraries, we recommend using the executable file (`.exe`).  
 Alternatively, download the main.py file and replace the data in 'cookies' with the data from the [Cookie Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en).
 
 ## Requirements
