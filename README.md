@@ -5,6 +5,8 @@
 # *   Autor:               Argo                                           *
 # *   PS: Używaj jak chesz w cookies musisz dac dane z cookie editora     *
 # *                                                                       *
+# *   Aby nie instalować żadnych bibliotek polecam plik exe               *
+# *                                                                       *
 #*************************************************************************/
 
 Potrzebne biblioteki:
