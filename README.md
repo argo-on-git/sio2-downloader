@@ -10,6 +10,7 @@ You can use this tool as you like. To get started, you will need to provide your
 
 ## Recommended Setup
 For ease of use and to avoid installing any libraries, we recommend using the executable file (`.exe`).
+Alternatively, download the main.py file and replace the data in 'cookies' with the data from the [Cookie Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en).
 
 ## Requirements
 The following Python libraries are required:
