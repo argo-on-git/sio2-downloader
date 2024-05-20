@@ -2,6 +2,8 @@
 
 Welcome to the **Sio2 Task Downloader**! This tool allows you to download tasks from the Sio2 platform with ease. Below you will find the instructions for setup and usage, as well as the required libraries.
 
+Now you can use **the web version** under this link (https://tools.absrv.live/)
+
 ## Author
 **Argo**
 
