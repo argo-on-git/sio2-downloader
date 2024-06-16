@@ -2,14 +2,14 @@
 
 Welcome to the **Sio2 Task Downloader**! This tool allows you to download tasks from the Sio2 platform with ease. Below you will find the instructions for setup and usage, as well as the required libraries.
 
-Now you can use **the web version** under this link (https://tools.absrv.live/)
+Now you can use **the web version** under this link (https://api.absrv.live/)
 
 ## Author
 **Argo**
 
 ## Usage
 You can use this tool as you like. To get started, you will need to provide your cookies data, which can be done using the [Cookie Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en) extension for Chrome.
-
+Or u can insert your username and password
 ## Recommended Setup
 For ease of use and to avoid installing any libraries, we recommend using the executable file (`.exe`).  
 Alternatively, download the main.py file and replace the data in 'cookies' with the data from the [Cookie Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en).
